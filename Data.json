@@ -1,0 +1,37 @@
+{
+  "upcomingEvents": [
+    {
+      "eventName": "Monstrum",
+      "dayOfEvent": "Friday",
+      "startTimeOfEvent": "18:00",
+      "endTimeOfEvent": "19:00",
+      "timezone": "EST",
+      "discordLink": "https://discord.gg/monstrum",
+      "hostName": "Brent",
+      "details": "An exciting lapdance show featuring special guests.",
+      "eventType": "Lapdance Event"
+    },
+    {
+      "eventName": "Monstrum",
+      "dayOfEvent": "Wednesday",
+      "startTimeOfEvent": "16:00",
+      "endTimeOfEvent": "17:00",
+      "timezone": "EST",
+      "discordLink": "https://discord.gg/monstrum",
+      "hostName": "Brent",
+      "details": "Mid-week Monstrum lapdance event.",
+      "eventType": "Lapdance Event"
+    },
+    {
+      "eventName": "Monstrum",
+      "dayOfEvent": "Sunday",
+      "startTimeOfEvent": "20:00",
+      "endTimeOfEvent": "21:00",
+      "timezone": "EST",
+      "discordLink": "https://discord.gg/monstrum",
+      "hostName": "Brent",
+      "details": "End your week with Monstrum's special lapdance event.",
+      "eventType": "Lapdance Event"
+    }
+  ]
+}
